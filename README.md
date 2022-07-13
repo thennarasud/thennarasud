@@ -4,7 +4,7 @@ I'm **[Thennarasu](linkedin.com/in/thennarasu-duraikannu-58a12032/)**.
 
 # Who i am?
 
-I am an engineering Graduate in Electronics & Communication Engineering stream, I was born and raised in **Oottathur/Thiruchirappalli/Tamilnadu/India** and started my career as a System Administrator in 2006,
+I am an engineering Graduate in Electronics & Communication Engineering stream, I was born and raised in **Oottathur/Thiruchirappalli/Tamilnadu/India**. I have started my career as a System Administrator in 2006,
  and currently working in Bangalore as a Cloud & Infra Architect, have worked in multiple domains (Banking, BPO, Finance, Media, Energy)
 
 # Techonologies Specialized in:
