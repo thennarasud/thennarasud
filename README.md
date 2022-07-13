@@ -4,8 +4,8 @@ I'm **[Thennarasu](linkedin.com/in/thennarasu-duraikannu-58a12032/)**.
 
 # Who i am?
 
-I am an engineering Graduate in Electronics & Communication Engineering stream, started my career as a System Administrator in 2006,
-I was born and raised in **Oottathur/Thiruchirappalli/Tamilnadu/India** and currently working in Bangalore as a Cloud & Infra Architect, have worked in multiple domains (Banking, BPO, Finance, Media, Energy)
+I am an engineering Graduate in Electronics & Communication Engineering stream, I was born and raised in **Oottathur/Thiruchirappalli/Tamilnadu/India** and started my career as a System Administrator in 2006,
+ and currently working in Bangalore as a Cloud & Infra Architect, have worked in multiple domains (Banking, BPO, Finance, Media, Energy)
 
 # Techonologies Specialized in:
 
@@ -14,6 +14,7 @@ I was born and raised in **Oottathur/Thiruchirappalli/Tamilnadu/India** and curr
 	* Application Virtualization (Citrix)
 	* Cloud Technologies (Azure, AWS)
 	* DevOps & Automation Tools (Docker, Kubernetes, Terraform, Ansible, Jenkins, Jira & Confluence)
+	* Linux Administration
 
 # Interested in
 
