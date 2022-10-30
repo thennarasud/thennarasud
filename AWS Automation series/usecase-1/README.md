@@ -27,7 +27,7 @@
 
 Simple Pictorial Representation:
 
-
+	https://github.com/thennarasud/thennarasud/blob/main/AWS%20Automation%20series/images/AWS%20Automation-use%20case-1.png
 
  
 
