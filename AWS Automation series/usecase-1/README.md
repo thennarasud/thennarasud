@@ -25,9 +25,8 @@
 	•	Collect the Access key & Secret keys for the user (Secret key will not be visible after the first use, we should download and keep it safe, if we missed the secret key, we should generate the key once again and the same needs to updated in Terraform provider configuration)
 	•	
 
-Simple Pictorial Representation:
+## Simple Pictorial Representation:
 
-	![alt tag](https://github.com/thennarasud/thennarasud/blob/main/AWS%20Automation%20series/images/AWS%20Automation-use%20case-1.png)
+	![AWS Automation-use case-1](https://user-images.githubusercontent.com/56339584/198865477-eb60c03b-b92b-4442-8a9c-26105226a367.png)
 
- 
 
