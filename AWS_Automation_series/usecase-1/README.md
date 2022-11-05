@@ -27,6 +27,6 @@
 
 ## Simple Pictorial Representation:
 
-	![Watch the image](/AWS Automation series/images/AWS Automation-use case-1.png)
+	![Watch the image](AWS_Automation_series/images/AWS_Automation-usecase-1.png)
 
 
